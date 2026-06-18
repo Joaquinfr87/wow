@@ -1,0 +1,5 @@
+MACRO 1 "JL" INV_Misc_QuestionMark
+#showtooltip
+/cast Judgement of Light
+/startattack
+END

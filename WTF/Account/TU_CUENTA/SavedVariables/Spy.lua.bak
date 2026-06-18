@@ -1,0 +1,39 @@
+
+SpyDB = {
+	["kosData"] = {
+		["Nostrum"] = {
+			["Alliance"] = {
+				["Kabron"] = {
+				},
+			},
+		},
+	},
+	["removeKOSData"] = {
+		["Nostrum"] = {
+			["Alliance"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Kabron - Nostrum"] = "Kabron - Nostrum",
+	},
+	["profiles"] = {
+		["Kabron - Nostrum"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 759.9999928877271,
+					["x"] = 10.00000123097031,
+					["w"] = 130.0000061548516,
+					["h"] = 45.00000280387682,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+		},
+	},
+}
