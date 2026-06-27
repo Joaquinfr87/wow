@@ -1,5 +1,0 @@
-
-EnhancedFriendsListDB = {
-	["Nostrum"] = {
-	},
-}

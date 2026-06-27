@@ -1,8 +1,0 @@
-MACRO 16777217 "HL" INV_Misc_QuestionMark
-#showtooltip
-/cast [@mouseover,help,nodead][help,nodead][@player] Holy light
-END
-MACRO 16777218 "HP" INV_Misc_QuestionMark
-#showtooltip
-/cast [@mouseover,help,nodead][help,nodead][@player] Hand of Protection
-END
