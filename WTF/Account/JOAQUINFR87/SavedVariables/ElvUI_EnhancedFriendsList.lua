@@ -1,0 +1,7 @@
+
+EnhancedFriendsListDB = {
+	["Nostrum"] = {
+	},
+	["Triumvirate"] = {
+	},
+}

@@ -1,0 +1,8 @@
+MACRO 2 "Focus" Ability_Hunter_SniperShot
+/focus
+END
+MACRO 3 "HS" INV_Misc_QuestionMark
+#showtooltip
+/cast Heroic Strike
+/startattack
+END

@@ -1,0 +1,18 @@
+MACRO 16777217 "HL" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead][help,nodead][@player] Holy light
+END
+MACRO 16777218 "HP" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead][help,nodead][@player] Hand of Protection
+END
+MACRO 16777220 "Jl" INV_Misc_QuestionMark
+#showtooltip
+/cast Judgement of Light
+/startattack
+END
+MACRO 16777219 "PS" INV_Misc_QuestionMark
+#showtooltip
+/cast Penetrating Strike
+/startattack
+END
